@@ -1,2 +1,2 @@
 # Project2
-Drugi projekat
+Drugi projekat/Veryija 2
